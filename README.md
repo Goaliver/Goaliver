@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Goaliver
 - 👀 I’m interested in machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C
 
 
 <!---
