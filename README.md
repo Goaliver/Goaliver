@@ -5,8 +5,12 @@ I'm a (not so) young coding enthusiast with a background in QA testing (and econ
 
 I recently decided to take my spaceship acroos the universe to unveil the secret of that old branch of magic called programming, as I have been told that it can help me to bring my ideas to life.
 
-
-
+# What will you find here?
+Mostly:
+- Basic code exercice
+- Game developpement experimentations
+- A little bit of Web dev
+- But mostly things about video games because i want to try a few thing out...
 
 
 
