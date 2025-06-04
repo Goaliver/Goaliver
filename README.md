@@ -11,6 +11,7 @@ Mostly:
 - Game developpement experimentations
 - A little bit of Web dev
 - But mostly things about video games because i want to try a few thing out...
+- Some posts where I share my experience and prrogress on my learning path
 
 
 
