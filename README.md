@@ -3,11 +3,11 @@
 # Who am I
 I'm a (not so) young coding enthusiast with a background in QA testing (and economics in a previous life). 
 
-I recently decided to take my spaceship acroos the universe to unveil the secret of that old branch of magic called programming, as I have been told that it can help me to bring my ideas to life.
+I recently decided to take my spaceship across the universe to unveil the secret of that old branch of magic called programming, as I have been told that it can help me to bring my ideas to life. I recently discovered a passion toward 
 
 # What will you find here?
 Mostly:
-- Basic code exercice
+- Basic code exercices
 - Game developpement experimentations
 - A little bit of Web dev
 - But mostly things about video games because i want to try a few thing out...
